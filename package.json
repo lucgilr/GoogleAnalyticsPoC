@@ -1,5 +1,5 @@
 {
-  "name": "Google Analytics PoC",
+  "name": "googleanalyticspoc",
   "version": "0.1.0",
   "description": "Google Analytics PoC",
   "main": "HelloAnalytics.hbs",
