@@ -1,0 +1,26 @@
+{
+  "name": "Google Analytics PoC",
+  "version": "0.1.0",
+  "description": "Google Analytics PoC",
+  "main": "HelloAnalytics.hbs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "body-parser": "~1.15.2",
+    "hbs": "~4.0.0"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/googleanalyticspoc"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "analytics"
+  ],
+  "author": "Lucía Gil Román"
