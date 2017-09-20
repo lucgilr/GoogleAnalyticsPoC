@@ -13,4 +13,12 @@ router.get('/', function(req, res, next) {
 	}
 });
 
+router.get('/googlee9601d81b4c3391a', function(req, res, next) {
+	try {	
+		res.render('googlee9601d81b4c3391a');
+	} catch (exception) {
+		console.log(exception);
+	}
+});
+
 module.exports = router;
